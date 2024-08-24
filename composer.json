@@ -1,0 +1,20 @@
+{
+    "name": "maddy819/inspire",
+    "description": "Test Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maddy819\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shubham Agrawal",
+            "email": "vickya819@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
